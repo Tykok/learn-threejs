@@ -1,0 +1,11 @@
+{
+  "name": "learn-threejs",
+  "version": "1.0.0",
+  "description": "A project used to learn Three JS",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/three": "^0.148.1",
+    "three": "^0.148.0"
+  }
+}
